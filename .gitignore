@@ -1,0 +1,10 @@
+
+admin/node_modules
+frontend/node_module
+
+
+backend/.env
+
+
+frontend/dist
+
